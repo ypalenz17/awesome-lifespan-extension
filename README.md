@@ -158,10 +158,10 @@ _A curated[^curation_details] list of awesome resources on lifespan extension[^d
 ### Guides & Educational Articles
 
 1. [Age Revive Science](https://agerevive.com/science) - Educational overview of NAD+, mitochondria, and related longevity pathways.
-2. [What Is Nicotinamide Riboside](https://agerevive.com/learn/what-is-nicotinamide-riboside) - Structure and function primer on the NAD+ precursor NR.
-3. [NMN vs NR for Cellular Energy](https://agerevive.com/learn/nmn-vs-nr-cellular-energy) - Side-by-side comparison of two common NAD+ precursors.
-4. [Gut–Mitochondria Axis](https://agerevive.com/learn/gut-mitochondria-axis) - Educational article on gut metabolites and mitochondrial biology.
-5. [What Is Urolithin A](https://agerevive.com/learn/what-is-urolithin-a) - Primer on urolithin A as a gut-derived mitochondrial metabolite.
+  a. [What Is Nicotinamide Riboside](https://agerevive.com/learn/what-is-nicotinamide-riboside) - Structure and function primer on the NAD+ precursor NR.
+  b. [NMN vs NR for Cellular Energy](https://agerevive.com/learn/nmn-vs-nr-cellular-energy) - Side-by-side comparison of two common NAD+ precursors.
+  c. [Gut–Mitochondria Axis](https://agerevive.com/learn/gut-mitochondria-axis) - Educational article on gut metabolites and mitochondrial biology.
+  d. [What Is Urolithin A](https://agerevive.com/learn/what-is-urolithin-a) - Primer on urolithin A as a gut-derived mitochondrial metabolite.
 
 ## Biotech & Pharmaceutical Companies
 
